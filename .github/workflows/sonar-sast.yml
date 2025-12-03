@@ -38,5 +38,5 @@ jobs:
           projectKey: " MartinBusuulwa256_java-sample "
           projectName: "java-sample"
         env:
-          SONAR_TOKEN: ${{6ae682d1c4122a6f1924dd90a210c6e6af880131}}
+          SONAR_TOKEN: ${{11de56b6f15587d50c85f53ff2c07647b549001c}}
 
