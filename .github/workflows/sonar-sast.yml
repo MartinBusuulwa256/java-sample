@@ -35,7 +35,7 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@v2
         with:
           organization: "MartinBusuulwa256"
-          projectKey: " MartinBusuulwa256_java-sample"
+          projectKey: "MartinBusuulwa256_java-sample"
           projectName: "java-sample"
         env:
           SONAR_TOKEN: ${{secrets.demo}}
